@@ -14,6 +14,7 @@ const ChallengeBox: React.FC = () => {
   const handleChallengeSucceded = () => {
     completeChallenge()
     resetChallenge()
+    resetCountdown();
   };
 
   const handleChallengeFailed = () => {
