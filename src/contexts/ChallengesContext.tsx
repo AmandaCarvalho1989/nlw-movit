@@ -26,7 +26,7 @@ interface ChallengesProvider {
 
 export function ChallengesProvider({ children }: ChallengesProvider) {
   const [level, setLevel] = useState(1);
-  const [currentExperience, setCurrentExperience] = useState(30);
+  const [currentExperience, setCurrentExperience] = useState(0);
   const [challengesCompleted, setChallengesCompleted] = useState(0);
   const [activeChallenge, setActiveChallenge] = useState(null);
 
