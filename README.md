@@ -1,15 +1,8 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src=".github/moveit.svg" />
+    <img src="https://user-images.githubusercontent.com/53491128/123679487-e904f700-d81d-11eb-8fee-904326b48f28.png" />
 </h1>
 
-<p align="center">
-  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
-</p>
+
 
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
@@ -19,13 +12,14 @@
   <img src="https://img.shields.io/github/stars/guilhermecapitao/nlw-04-reactjs-moveit?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
 </p>
 
-<br>
 
-<p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="120px">
-</p>
 
-## 🧪 Technologies
+## 💻 Project
+
+MoveIt é um projeto Front-End criado utilizando ReactJS, NextJS e TypeScript durante a NLW#4 da Rocketseat. Esse projeto consiste em te tirar da sua vida sedentária durante suas várias horas trabalhando sentado.
+
+
+## 🧬 Technologies
 
 This project was developed using the following technologies:
 
@@ -35,7 +29,7 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://move-it-ruby-one.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://movit-nlw4.vercel.app/)
 
 ## 🚀 Getting started
 
@@ -54,19 +48,16 @@ $ yarn
 $ yarn dev
 ```
 
-## 💻 Project
 
-[Move.it](https://movit-nlw4-amandacarvalho1989.vercel.app/) came to remind you to exercise always! 💜 
-
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during February 22-28, 2021.
-
-## 🔖 Layout
+## 🎨 Layout
 
 You can view the project layout through the links below:
 
-- [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0) 
+- [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0?node-id=160%3A2761) 
 
-Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
----
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/AmandaCarvalho1989/nlw-movit/blob/main/LICENSE.md) file for details
+
 <p align="center">Made with 💜 by Amanda Carvalho</p>
